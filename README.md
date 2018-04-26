@@ -1,5 +1,5 @@
 # todo-ios
-A simple todo app run in iOS
+Swift version of https://github.com/rickmak/todo-iOS
 
 ## Bugs
 
