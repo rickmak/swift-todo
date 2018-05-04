@@ -85,9 +85,9 @@
 		F8C129362091117400AA4E6F /* Controllers */ = {
 			isa = PBXGroup;
 			children = (
-				F8C129372091118D00AA4E6F /* ToDoListTableViewController.swift */,
 				F8C1293920915E0400AA4E6F /* AddToDoItemViewController.swift */,
 				F8C1293B20915F5400AA4E6F /* FinishedTableViewController.swift */,
+				F8C129372091118D00AA4E6F /* ToDoListTableViewController.swift */,
 			);
 			path = Controllers;
 			sourceTree = "<group>";

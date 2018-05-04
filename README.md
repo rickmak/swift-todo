@@ -1,5 +1,5 @@
 # todo-ios
-Swift version of https://github.com/rickmak/todo-iOS
+A simple todo app run in iPhone. This project has no external dependencies.
 
 ## Bugs
 
@@ -26,6 +26,7 @@ Swift version of https://github.com/rickmak/todo-iOS
 
 ## Evalation
 
-- We look for clean and maintainable code
+- We look for clean code
+- We look for maintainable code
 - Attention to UI/UX
 - How you fix the problem is more important than how fast you fix it
