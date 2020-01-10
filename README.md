@@ -3,7 +3,8 @@ A simple todo app run in iPhone. This project has no external dependencies.
 
 ## Bugs
 
-- Keyboard should show automatically on modal appear
+- After adding the todo item, it does not appear on the list immediately. It
+  appear on switching tab.
 - At add todo model, the keyboard return key should be 'Done'. Press it will 
   save the item.
 - ToDo item should not finished on touch, make it finished by swipe
